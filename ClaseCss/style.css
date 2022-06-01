@@ -1,0 +1,18 @@
+p {
+    color:blue;
+    font-size: 60px;
+}
+
+/* class */
+
+.parrafo {
+    color: palevioletred;
+    font-size: 20px;
+}
+
+/* ID */
+
+#fuente {
+    color: crimson;
+    font-size: 50px;
+}
