@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-size: 62.5%;
+}
+.contenedor-parent {
+    display: inline-block;
+}
+.box-1 {
+    display: inline-block;
+    font-size: 1.7rem;
+    background-color: grey;
+    width: 400px;
+    height: 300px;
+    border-radius: 8px;
+    
+}
+.box-2 {
+    display: inline-block;
+    font-size: 1.2rem;
+    background-color: magenta;
+    width: 250px;
+    height: 80px;
+    border-radius: 8px;
+    position: relative;
+    bottom: 20px;  
+}
